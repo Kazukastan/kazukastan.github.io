@@ -2,6 +2,11 @@
 
 **Games, With Friends!**:
 
+The club will take place at my house, located at 2010 Anderson Cove Lane.
+Please text or email your available dates to the contacts at the bottom of the page. 
+Once enough people have told me their available days, the next meeting will be decided.
+This may lead to an erratic schedule, but this is only done in order to make sure that as many people as possible may attend.
+
 
 - Calendar Embed
 
@@ -14,6 +19,7 @@
 [Blog](https://tyetsa.cf/)
 <br>
 [E-mail: tysayahi@gmail.com](mailto:tysayahi@gmail.com)
+Phone: (513)-497-8023
 
 
 <h1 align="center">^</h1>
