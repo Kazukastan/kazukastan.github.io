@@ -1,21 +1,16 @@
+###Kirna Gaming 
+**Games, With Friends!**:
 
 
-Tholen & Associates PLACEHOLDER SITE
+- Calendar Embed
 
-### Styleing
-
-
-**Style Formatting**:
-- Style Stuff
-
-
-## [Text With Link](https://tyetsa.cf/)
+## [Link to Calendar](https://tyetsa.cf/)
 
 <br>
 ### Contact Us
-[Blog](https://blank.cf/)
+[Blog](https://tyetsa.cf/)
 <br>
-[E-mail: blank@blank.cf](mailto:blank@blank.cf)
+[E-mail: tysayahi@gmail.com](mailto:tysayahi@gmail.com)
 
 
 <h1 align="center">^</h1>
@@ -26,4 +21,4 @@ Tholen & Associates PLACEHOLDER SITE
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
-	line-height: 16px;">Copyright © 2017-2018 by Jesse Tholen. All rights reserved.</p>
+	line-height: 16px;">Copyright © 2019-2019 by Kirna Sebo. All rights reserved.</p>
