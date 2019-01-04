@@ -5,7 +5,7 @@
 
 - Calendar Embed
 
-<iframe src="https://calendar.google.com/calendar/embed?src=r5598i8htkrvt4kuc2g8omcqbc%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="640" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=r5598i8htkrvt4kuc2g8omcqbc%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="550" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## [Link to Calendar](https://calendar.google.com/calendar/embed?src=r5598i8htkrvt4kuc2g8omcqbc%40group.calendar.google.com&ctz=America%2FNew_York)
 
