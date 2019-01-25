@@ -1,11 +1,8 @@
-### Kirna Gaming 
+### Sayahi Gaming 
 
 **Games, With Friends!**:
 
-The club will take place at my house, located at 2010 Anderson Cove Lane.
-Please text or email your available dates to the contacts at the bottom of the page. 
-Once enough people have told me their available days, the next meeting will be decided.
-This may lead to an erratic schedule, but this is only done in order to make sure that as many people as possible may attend.
+Hi! This website is for the out of school gaming club. Meeting dates will be posted here as soon as they are planned. Before a meeting date is decided, I need you guys to send me the days you are available, so I can make sure everyone can attend. My contact info is located below, feel free to send me the dates you are available anytime.
 
 
 - Calendar Embed
@@ -16,7 +13,6 @@ This may lead to an erratic schedule, but this is only done in order to make sur
 
 <br>
 ### Contact Us
-[Blog](https://tyetsa.cf/)
 <br>
 [E-mail: tysayahi@gmail.com](mailto:tysayahi@gmail.com)
 Phone: (513)-497-8023
@@ -30,4 +26,4 @@ Phone: (513)-497-8023
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
-	line-height: 16px;">Copyright © 2019-2019 by Kirna Sebo. All rights reserved.</p>
+	line-height: 16px;">Copyright © 2019-2019 by Ty Sayahi. All rights reserved.</p>
